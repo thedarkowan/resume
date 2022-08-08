@@ -31,18 +31,21 @@ DevOps intern at SDA/Coding Dojo
 - Distribution Systems
 - Azure
 
+## projects i've worked on in the bootcamp:
+- cloudformation template 
+- Deploying Python in Lambda
+- creating tomcat webapp
+- make AWS snapshot
+- track ec2
 
 
 
 ## Education
-
 arab open university
 
 
 
 ## Clubs
-
-LIST of clubs
 CS & AI
 
 
@@ -51,7 +54,3 @@ CS & AI
 
 `SDA/Codingdojo` — intern in DevOps 
 
-
-<!-- ### Footer
-
-Last updated: June 2022 -->
