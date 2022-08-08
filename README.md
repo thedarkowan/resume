@@ -8,7 +8,7 @@ network and security engineer, DevOps intern, Javascript Instructor.
 </div>
 
 
-## Currently
+## Experience:
 
 DevOps intern at SDA/Coding Dojo
 
@@ -38,7 +38,11 @@ DevOps intern at SDA/Coding Dojo
 - make AWS snapshot
 - track ec2
 
+## Experience
+javascript  instructor at The Core Hub
 
+### Specialized in
+Taught the basics of coding through JavaScript, gave robotics courses, and assisted in electrical courses.
 
 ## Education
 arab open university
